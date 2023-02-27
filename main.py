@@ -10,7 +10,4 @@ def print_hi():
     print("\n..\n")
 
 if __name__ == '__main__':
-    print_hi()
-
-
-
+    print_hasjdhasjdaajnjkcnsdjckasnkcnsdjcnasjkvbsjvscsc
