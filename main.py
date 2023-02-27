@@ -8,9 +8,9 @@ def print_hi():
      ##     ##    ##    ##    ## ##    ## 
      ##     ##    ##     ######   ######  
 
-    |------------Coded by ShLk------------|''')
+    |---------------------|''')
 
-    print("\nGithub: https://c//om/ShLkprod/MTCS_V1\n")
+    print("\n\n")
 
 if __name__ == '__main__':
     print_hi()
