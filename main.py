@@ -10,7 +10,7 @@ def print_hi():
 
     |------------Coded by ShLk------------|''')
 
-    print("\nS_V1\n")
+    print("\nS\n")
 
 if __name__ == '__main__':
     print_hi()
