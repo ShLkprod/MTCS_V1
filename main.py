@@ -10,7 +10,7 @@ def print_hi():
 
     |------------Coded by ShLk------------|''')
 
-    print("\nGithub: https://github.com/ShLkprod/MTCS_V1\n")
+    print("\nGithub: ht\n")
 
 if __name__ == '__main__':
     print_hi()
