@@ -1,6 +1,7 @@
 def print_hi():
     print('''
-  1231
+     hoe to use it
+
 
     |--------------------|''')
 
