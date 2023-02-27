@@ -10,7 +10,7 @@ def print_hi():
 
     |------------Coded by ShLk------------|''')
 
-    print("\nGithub: ht\n")
+    print("\nG\n")
 
 if __name__ == '__main__':
     print_hi()
