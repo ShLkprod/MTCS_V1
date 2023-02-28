@@ -10,7 +10,6 @@ def print_hi():
 if __name__ == '__main__':
     print_hi()
     
-    dsvdbdfshsgdfhbdffdb
     ertrtuerdrgdrhr
 
 
