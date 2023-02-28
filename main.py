@@ -1,13 +1,15 @@
-def print_hi():
+def main_menu():
     print('''
- 
-    
-     ##     ##    ##    ##    ## ##    ## 
-     ##     ##    ##     ######   ######  
+ ███╗   ███╗████████╗ ██████╗███████╗
+ ████╗ ████║╚══██╔══╝██╔════╝██╔════╝
+ ██╔████╔██║   ██║   ██║     ███████╗
+ ██║╚██╔╝██║   ██║   ██║     ╚════██║
+ ██║ ╚═╝ ██║   ██║   ╚██████╗███████║
+ ╚═╝     ╚═╝   ╚═╝    ╚═════╝╚══════╝
+*-----------Coded by ShLk------------*''')
 
-    |---------------------|''')
-
-    print("\n..\n")
+print("\nGithub: https://github.com/ShLkprod/MTCS_V1\n")
+print("Telegram: @Laineekz and @SharpCD\n")
 
 if __name__ == '__main__':
-    print_hasjdhasjdaajnjkcnsdjckasnkcnsdjcnasjkvbsjvscsc
+    main_menu()
